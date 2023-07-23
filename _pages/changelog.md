@@ -5,16 +5,16 @@ include_in_header: false
 ---
 
 # Changelog
-ChatDog 版本发布历史
+黄历天气 版本发布历史
 
 <br>
 
 ### `Latest`
 # **Version 1.0**
-ChatDog 第一个正式版本
+黄历天气 第一个正式版本
 
 #### What's New
-- 提供各种有用的prompt和直接和 ChatGPT 沟通的能力
+- 提供天气信息和黄历信息
 
 #### Bug Fixes
 - 暂无
